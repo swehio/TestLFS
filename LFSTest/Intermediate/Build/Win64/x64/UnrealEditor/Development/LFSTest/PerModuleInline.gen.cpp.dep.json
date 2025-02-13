@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\testlfs\\lfstest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lfstest\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\testlfs\\lfstest\\intermediate\\build\\win64\\x64\\lfstesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\testlfs\\lfstest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lfstest\\definitions.lfstest.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

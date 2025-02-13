@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\testlfs\\lfstest\\source\\lfstest\\lfstest.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\testlfs\\lfstest\\intermediate\\build\\win64\\x64\\lfstesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\testlfs\\lfstest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lfstest\\definitions.lfstest.h",
+            "d:\\git\\testlfs\\lfstest\\source\\lfstest\\lfstest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
