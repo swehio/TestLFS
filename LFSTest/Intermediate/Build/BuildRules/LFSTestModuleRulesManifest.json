@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Git\\TestLFS\\LFSTest\\Source\\LFSTest\\LFSTest.Build.cs",
-		"D:\\Git\\TestLFS\\LFSTest\\Source\\LFSTest.Target.cs",
-		"D:\\Git\\TestLFS\\LFSTest\\Source\\LFSTestEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.1"
-}
